@@ -1,0 +1,15 @@
+.container{
+    display: grid;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border: 2px solid #000;
+}
+
+.grid-items{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    gap: 2rem;
+}
+
